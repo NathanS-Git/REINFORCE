@@ -1,6 +1,6 @@
 # REINFORCE
 
-Simple implementation of the *RE*ward*I*ncrement*N*on-negative*F*actor times*O*ffset*R*einforcement times*C*haracteristic*E*ligibility (REINFORCE) policy-gradient algorithm. 
+Simple implementation of the **RE**ward **I**ncrement **N**on-negative **F**actor times **O**ffset **R**einforcement times **C**haracteristic **E**ligibility (REINFORCE) policy-gradient algorithm. 
 
 ## Contents
 
@@ -17,7 +17,7 @@ Additional changes, such as using AdamW instead of SGD described above, and norm
 
 ## Results
 
-Interestingly appears to be less stable than DQN approach. Should reach 495 average over last 100 episodes within less than 1000 episodes consistently.
+Interestingly appears to be less stable than DQN approach. Should reach 495 average over last 100 episodes within less than 1000 episodes consistently on the Cart Pole problem.
 
 ## Runs
 
